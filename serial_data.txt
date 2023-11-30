@@ -1,0 +1,12 @@
+Last Packet Recv from: a0:b7:65:6b:2d:34
+Camera ID: 2, Patch ID: 10
+x[0]:21  x[1]:23  y[0]:7  y[1]:23Last Packet Recv from: a0:b7:65:4f:2c:ac
+Camera ID: 1, Patch ID: 10
+x[0]:20  x[1]:6  y[0]:17  y[1]:6Last Packet Recv from: a0:b7:65:6b:2d:34
+Camera ID: 2, Patch ID: 10
+x[0]:15  x[1]:17  y[0]:8  y[1]:17Last Packet Recv from: a0:b7:65:4f:2c:ac
+Camera ID: 1, Patch ID: 10
+x[0]:21  x[1]:24  y[0]:5  y[1]:24Last Packet Recv from: a0:b7:65:6b:2d:34
+Camera ID: 2, Patch ID: 10
+x[0]:8  x[1]:23  y[0]:18  y[1]:23Last Packet Recv from: a0:b7:65:4f:2c:ac
+Camera ID: 1, Patch ID: 10
